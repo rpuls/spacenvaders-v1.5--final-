@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=w\ ms\ p
+comment0.target=alien(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ hitCheck()
+comment3.params=
+comment3.target=void\ dying()
+numComments=4

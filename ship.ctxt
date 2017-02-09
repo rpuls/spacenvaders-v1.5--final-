@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ControlAdvanced()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=void\ powerUpCheck()
+comment4.params=
+comment4.target=void\ alienCollideCheck()
+comment5.params=
+comment5.target=void\ hitByAlienCheck()
+numComments=6
